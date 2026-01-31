@@ -1,0 +1,10 @@
+{
+  "name": "openclaw-server",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "openclaw gateway --port 10000 --allow-unconfigured"
+  },
+  "dependencies": {
+    "openclaw": "latest"
+  }
+}
